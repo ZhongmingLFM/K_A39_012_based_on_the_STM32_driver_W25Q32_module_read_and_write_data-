@@ -5,9 +5,9 @@ Based on STM32 drive W25Q32 module read and write data serial port +OLED0.96 dis
 
 This program uses STM32F103C8T6  to drive W25Q32 and use OLED 0.96 (SSD1603 drive chip) to display and print and print the serial port.
 
-这里有种英文说明 前部分为中文说明 后半部分为英文说明 请悉知
+这里有中英文说明 前部分为中文说明 后半部分为英文说明 请悉知
 
-Here is a kind of English description in the previous part of the Chinese description.
+Here are Chinese and English description The previous part of the Chinese description is the English description in English, please know how to know
 
 注：文档手册在工程文件的DOC文件夹内
 
