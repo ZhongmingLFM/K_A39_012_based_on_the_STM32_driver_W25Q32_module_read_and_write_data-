@@ -213,10 +213,12 @@ void SPI_FLASH_Init(void)
 
 # 六、视频效果展示与程序资料获取
 [视频连接](https://www.bilibili.com/video/BV1v24y1T7Ac/?vd_source=7933b82b52c9cbf1c7966eb9f0dbd29f)  	直戳跳转
+
 资料获取            （可直接下载仓库）
 
 # 七、注意事项
 1、VCC GND请勿接反，接反易烧
+
 2、OLED显示异常时，排除接线接触不良
 
 # 八、接线说明
