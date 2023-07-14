@@ -9,6 +9,10 @@ This program uses STM32F103C8T6  to drive W25Q32 and use OLED 0.96 (SSD1603 driv
 
 Here is a kind of English description in the previous part of the Chinese description.
 
+注：文档手册在工程文件的DOC文件夹内
+
+Note: The document manual is in the DOC folder of the engineering file
+
 如果发现程序有BUG 或者又可以改进的地方 欢迎联系我们
 
 If you find that the program has bugs or can be improved, please contact us
