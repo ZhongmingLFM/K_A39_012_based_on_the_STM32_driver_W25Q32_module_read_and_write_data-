@@ -407,7 +407,9 @@ You need to customize the pin can be changed here. If STM32 needs to customize t
 
 
 # 6. Video effect display and program data acquisition
-[Video Connection] (https://www.bilibili.com/video/bv1v24y1t7ac/?vd_source=7933B82B52CBF1C7966EB9F0DBD29F) Stranding jumping
+
+[Video Connection](https://www.bilibili.com/video/BV1v24y1T7Ac/?vd_source=7933b82b52c9cbf1c7966eb9f0dbd29f)    Stranding jumping
+
 Data acquisition (can download the warehouse directly)
 
 # 7. Notice
